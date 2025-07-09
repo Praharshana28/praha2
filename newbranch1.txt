@@ -1,0 +1,1 @@
+i craete a newbranch in vs code, i want it in github, it would merge it to main, in before case we use "merge" command but for long project the other branches have not the access to merge their in code in main branch so they use"pull" command it would be permission like i made a change so pls verify it and it to main
